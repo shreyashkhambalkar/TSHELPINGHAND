@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ScrollingActivity"
+    tools:showIn="@layout/activity_scrolling">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="266dp"
+        android:layout_margin="@dimen/text_margin"
+        android:text="Sanjay Niradhar Yojana ( State fund)
+
+
+Applicable for -
+1.destitute person below 65 age
+2.handicap
+3.orphan
+4.critical illness
+5.fred from prostitution
+6.outrage person
+
+benefits-
+1.600rs per month for single beneficiary
+2.900/- per month for two or more beneficiaries in family.
+3.Income less or up to 21,000/-
+
+How to apply-
+Collector office/tahsildar/TalitIa. submit application online form https://aaplesarkar.mahaonline.gov.in/.
+
+Documents required-
+Application form
+Certificate of residence
+Certificate of Age
+Certificate of income or proof for poverty line.
+Certificate of Incapacity/disease issued from government hospital.
+" />
+
+</androidx.core.widget.NestedScrollView>

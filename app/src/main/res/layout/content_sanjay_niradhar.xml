@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".SanjayNiradhar"
+    tools:showIn="@layout/activity_sanjay_niradhar">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:text="
+Rajiv Gandhi Jeevandayee Arogya Yojana, Maharashtra renamed as-
+Mahatma Jyotiba Phule Jan Arogya Yojana
+
+Applicable for -
+BPL (Below Poverty Line)   and APL (Above Poverty Line) people
+
+Subject Covered under MJPJAY-
+1.Scheme Offers free medical care for speciality services which requires hospitalisation for consultation, surgeries and therapist.
+2.It includes 971 therapies/surgeries/procedures in 30 specialised categories.
+3.The government has reserved 132 procedures which are to be performed by empanelled government hospitals or government medical colleges.
+4.The upper limit for renal transplant operation is Rs.2,50,000.
+5.Consultation and medicines post-hospitalisation is covered for up to 10 days from the date of discharge.
+
+Diseases Covered under Yojana-
+
+General Surgery
+Ophthalmology Surgery
+ENT Surgery
+Gynaecology and Obstetrics Surgery
+Surgical Gastroenterology
+Orthopaedic Surgery and Procedures
+Cardiac and Cardiothoracic Surgery
+Genitourinary System
+Paediatric Surgery
+Surgical Oncology
+Neurosurgery
+Medical Oncology
+Plastic Surgery
+Radiation Oncology
+Burns
+Prostheses
+Polytrauma
+Critical Care
+Infectious Disease
+General Medicine
+Pediatrics Medical Management
+Nephrology
+Cardiology
+Neurology
+Dermatology
+Pulmonology
+Rheumatology
+Gastroenterology
+Endocrinology
+Interventional Radiology
+
+How to apply for Yojana-
+1.To apply or to get the Mahatma Jyotiba Jan Arogya Yojana card, you need to approach the nearby General, Women/District/Network hospital.
+2.Arogyamitra, who is the representative of the scheme, shall facilitate in getting the health card for you
+" />
+
+</androidx.core.widget.NestedScrollView>

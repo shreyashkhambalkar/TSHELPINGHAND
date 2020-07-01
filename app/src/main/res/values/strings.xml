@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TG</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="shravan">
+
+    Shravan BalYojana
+
+    Subject Covered under State and Central government :-
+    Category A – Under this scheme, every eligible whose annual family income is below Rs. 21000/-  whose name is not included in the BPL List get Rs. 600/- per month from the state government.
+    Category B – In addition to Category A, every eligible to get pension of Rs. 400/- per month from the state government. Moreover, the same beneficiary
+    also receives pension of Rs. 200/- per month from the central govt. under Indira Gandhi National Old Age Pension Scheme.
+
+    Applicable for -
+    BPL (Below Poverty Line) and destitute person of age 65 years and above
+
+    benefits-
+    1.600rs per month for single beneficiary
+    2.400/- per month for same beneficiary + 200/- per month from the central govt.
+    3.Income less or up to 21,000/-
+
+    How to apply-
+    Collector office/tahsildar/TalitIa. submit application online link https://aaplesarkar.mahaonline.gov.in/
+
+    Documents required-
+    Application form
+    Certificate of residence
+    Certificate of Age
+    Certificate of income or proof for poverty line.
+
+   </string>
+</resources>
